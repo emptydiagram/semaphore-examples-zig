@@ -36,7 +36,6 @@ fn proc() void {
     doWork();
     count = temp + 1;
   }
-  // print("x = {0}\n", .{x});
 }
 
 fn doWork() void {
